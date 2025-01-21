@@ -1,4 +1,4 @@
-# 你好，我是 [LittleTurtle2333（乌堆小透明）] 👋
+# 你好，我是LittleTurtle2333(乌堆小透明)👋
 
 ![GitHub followers](https://img.shields.io/github/followers/LittleTurtle2333?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/LittleTurtle2333?style=social)  
